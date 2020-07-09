@@ -4,6 +4,8 @@ CDK Patterns is intended to include a repo containing all of the official AWS Se
 
 Follow [@CdkPatterns](https://twitter.com/cdkpatterns) for live discussion / new pattern announcements. I plan to add a new pattern weekly so check back regularly!
 
+You can also checkout [cdkpatterns.com](https://www.cdkpatterns.com) to see all patterns, filter by serverless component or see how they relate to the AWS Well Architected Framework
+
 You can also check out our [Deconstructing CDKPatterns](https://www.youtube.com/channel/UCuR3jnWEnxx1G2axUMVaogg) YouTube channel for in depth walk throughs of the patterns.
 
 Note, this is maintained by [@nideveloper](https://twitter.com/nideveloper) not AWS. For my motivation, please read this [blog post](https://www.mattcoulter.com/blog/post/2)
