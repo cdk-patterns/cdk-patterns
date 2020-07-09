@@ -1,6 +1,6 @@
 ![logo](https://github.com/cdk-patterns/serverless/blob/master/img/cdkpatterns_logo.png?raw=true)
 
-CDK Patterns is intended to include a repo containing all of the official AWS Serverless architecture patterns built with CDK for developers to use.
+CDK Patterns is intended to include a [repo](https://github.com/cdk-patterns/serverless) containing all of the official AWS Serverless architecture patterns built with CDK for developers to use.
 
 Follow [@CdkPatterns](https://twitter.com/cdkpatterns) for live discussion / new pattern announcements. I plan to add a new pattern weekly so check back regularly!
 
